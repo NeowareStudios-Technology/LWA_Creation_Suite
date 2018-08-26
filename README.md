@@ -2,7 +2,7 @@
 Private Repository for the development of the Creation Suite
 
 
-# Leap With Alice React-Native-Web Documentation Standards, Naming Conventions.
+# Leap With Alice Cross-Platform Standards &amp; Naming Conventions.
  Bonus: Small Introduction to JavaScript and ES6(ECMAScript2015 - used in ReactJS and React-Native platforms, possible in web because of babel transpiler). 
  
  ### Good React Resources:

@@ -923,34 +923,6 @@ at the bottom of your App.js file.
 The author fails to mention this as this is a change from when the video was made.
 
 
-### Styling Preferences:
-
-In the tutorial videos Section 6 lecture 24, the author writes the styles for the ```<Header />``` component like so:
-```js
-const Header = () => {
-  const { textStyle } = styles; // This will change
-  return (
-    <View>
-      <Text style={styles.textStyle}>Test Application</Text>
-    </View>
-  );
-};
-
-```
-We can just reference the style sheet in the "style" tag itself without the extra step of declaring it a const. This is how our new app begins, and this is how we should continue to code our projects.
-
-```js
-const Header = () => {
-
-  return (
-    <View>   // notice no const AND just appending
-		    // styles.customStyle
-      <Text style={styles.textStyle}>Test Application</Text>
-    </View>
-  );
-};
-
-```
 
 So instead of having a file with 20 const stylings, each component should reference their own styles in line.
 

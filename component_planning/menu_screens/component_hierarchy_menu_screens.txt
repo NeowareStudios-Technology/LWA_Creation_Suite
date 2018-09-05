@@ -1,0 +1,17 @@
+Component Hierarchy: menu_screens
+
+-app
+	-settingsMenuContainer
+		-menuTitle
+		-subMenuTitle
+		-subMenuItem	
+		-button
+	-header
+		-userPhoto
+	-viewContainer
+		-welcomeContainer
+			-welcomeButton
+		-sectionViewContainer
+			-sectionHeading
+			-sectionContentContainer
+				-sectionContentCard

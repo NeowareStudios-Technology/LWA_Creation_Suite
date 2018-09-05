@@ -1,0 +1,13 @@
+Component Hierarchy: sign_in_out_screens
+
+-infoScreen
+	-directionArrow
+	-title
+	-input (sometimes multiple)
+	-submitButton
+	-forgotButton
+	-buttonDescriptor
+	-description
+	-radioInput
+	
+	

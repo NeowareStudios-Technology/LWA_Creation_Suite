@@ -1,9 +1,0 @@
-Component Hierarchy: creation_tool_screens
-
--app
-	-header
-	-viewContainer
-		-mainMenu
-		-subMenu
-		-pickerMenu
-		-document
